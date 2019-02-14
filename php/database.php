@@ -1,6 +1,6 @@
 <?php
     $connection = mysqli_connect(
-        'localhost',
+        '192.168.1.5',
         'root',
         'admin',
         'EMPACADORA'
